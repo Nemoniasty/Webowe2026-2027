@@ -1,0 +1,17 @@
+{
+  "name": "ts2",
+  "version": "1.0.0",
+  "description": "",
+  "license": "ISC",
+  "author": "Nemoniasty",
+  "type": "module",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "dev":"npx tsc -w"
+  },
+  "devDependencies": {
+    "@types/node": "^26.6.5",
+    "typescript": "^7.0.2"
+  }
+}

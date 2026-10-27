@@ -4,3 +4,9 @@ export type Student = {
     surname:string,
     age:number
 }
+
+export type City = {
+    name:string;
+    population:number;
+    province:string;
+}

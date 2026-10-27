@@ -1,0 +1,10 @@
+Warszawa|1863056|mazowieckie
+Kraków|804237|małopolskie
+Wrocław|674132|dolnośląskie
+Łódź|645693|łódzkie
+Poznań|540146|wielkopolskie
+Gdańsk|486345|pomorskie
+Szczecin|389066|zachodniopomorskie
+Lublin|329565|lubelskie
+Bydgoszcz|326434|kujawsko-pomorskie
+Białystok|291688|podlaskie
